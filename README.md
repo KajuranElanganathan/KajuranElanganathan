@@ -1,8 +1,9 @@
 # Hi there 👋
 
-🔭 I’m a second year studying **Software Engineering** at **McMaster University**  
-👯 I’m looking to collaborate on any projects
-📫 How to reach me: **Kajuran65@gmail.com**  
+🔭 I’m a second year studying **Software Engineering** at **McMaster University**<br>
+👯 I’m looking to collaborate on any projects<br>
+📫 How to reach me: **Kajuran65@gmail.com**
+
 
 ---
 
