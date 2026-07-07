@@ -12,7 +12,6 @@
 - 💼 SWE Intern @ **Courtyard AI**
 - 💼 Previously @ **Luca Theory**
 - 🎓 Software Engineering @ McMaster University
-- 🤝 Open to collabs on projects that ship
 
 ### 📫 Let's Connect
 
