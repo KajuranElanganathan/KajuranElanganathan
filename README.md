@@ -1,9 +1,5 @@
-<h1 align="center">Hey, I'm Kajuran</h1>
-<h3 align="center">Software Engineering Student @ McMaster University</h3>
-
-
-- SWE Intern @ **Courtyard AI**
-- Previously @ **Luca Theory**
-
-
-<p align="center"><i>Open to internships, collabs, and interesting problems. Let's build something.</i></p>
+hi, i'm kajuran
+i'm a software engineering student at mcmaster university
+currently a swe intern at courtyard ai
+previously at luca theory
+open to internships, collabs, and interesting problems. let's build something.
